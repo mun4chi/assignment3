@@ -1,0 +1,14 @@
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/bin/Debug/net9.0/assignment3
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/bin/Debug/net9.0/assignment3.deps.json
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/bin/Debug/net9.0/assignment3.runtimeconfig.json
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/bin/Debug/net9.0/assignment3.dll
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/bin/Debug/net9.0/assignment3.pdb
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.AssemblyInfoInputs.cache
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.AssemblyInfo.cs
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.csproj.CoreCompileInputs.cache
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.dll
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/refint/assignment3.dll
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.pdb
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/assignment3.genruntimeconfig.cache
+/Users/munachi/Desktop/SCHOOL/cprg211/assignment3/obj/Debug/net9.0/ref/assignment3.dll
