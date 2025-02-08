@@ -19,7 +19,7 @@ class Program
         myCat.Eat();
 
         
-        Console.Write("Enter a dog's name for the (Interface): ");
+        Console.Write("Enter a dog's name (Interface): ");
         string dogInterfaceName = Console.ReadLine();
         DogInterface myDogInterface = new DogInterface();
         
@@ -41,7 +41,7 @@ class Program
         myDogInterface.Eat();
         Console.WriteLine(myDogInterface.Cry());
 
-        Console.Write("Enter a cat's name for the (Interface): ");
+        Console.Write("Enter a cat's name (Interface): ");
         string catInterfaceName = Console.ReadLine();
         CatInterface myCatInterface = new CatInterface();
         
